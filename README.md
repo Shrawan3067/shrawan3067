@@ -19,17 +19,17 @@ Driven by performance, clean architecture, and product-focused engineering. I ha
 
 ### 🛠️ Production-Ready Projects & MVPs
 
-#### 🏪 [GharSeDeal](https://github.com/shrawan3067) — Online E-Commerce Marketplace
+#### 🏪 [GharSeDeal](https://ghar-se-deal.vercel.app/) — Online E-Commerce Marketplace
 *A high-performance marketplace client built to handle heavy listing inventories fluidly.*
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io, Redis
 - **Key Metrics:** Achieved a **~10x reduction in listing API latency** via server-side rendering (SSR) and optimized pagination. Slashed payload sizes by **~60%** with selective field projection and Redis caching.
 
-#### ⏱️ [Focusyn](https://github.com/shrawan3067) — Productivity & Focus Management Platform
+#### ⏱️ [Focusyn](https://focusyn-productivity-focus-manageme.vercel.app/) — Productivity & Focus Management Platform
 *Real-time task tracking and collaboration engine built with a mobile-first focus.*
 - **Tech Stack:** React Native, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io
 - **Key Metrics:** Boosted overall response speeds by **~50%** across complex data feeds through aggregate pipeline optimizations and a modular backend service-layer.
 
-#### 🍔 [BiteXpress](https://github.com/shrawan3067) — Hyperlocal Food Delivery Application
+#### 🍔 [BiteXpress](https://bite-xpress-food-delivery-app.vercel.app/) — Hyperlocal Food Delivery Application
 *A secure, role-authorized mobile platform with robust order and cart states.*
 - **Tech Stack:** React Native, Tailwind CSS, Node.js, Express.js, MongoDB
 - **Key Metrics:** Reduced query execution times by **~35%** by restructuring relational schemas and optimizing CRUD routines.
