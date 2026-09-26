@@ -53,5 +53,6 @@ Driven by performance, clean architecture, and product-focused engineering. I ha
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrawan3067&show_icons=true&theme=tokyonight&hide_border=true" alt="Shrawan's GitHub Stats" />
+  <img src="https://shion.dev" alt="Shrawan's GitHub Stats" />
 </p>
+
