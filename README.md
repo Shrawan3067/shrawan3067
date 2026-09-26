@@ -51,8 +51,3 @@ Driven by performance, clean architecture, and product-focused engineering. I ha
 - 📝 **Portfolio / Live Links:** *[my-portfolio](https://my-portfolio-shrawan-kumar-sahs-projects.vercel.app/)*
 
 ---
-
-<p align="center">
-  <img src="https://shion.dev" alt="Shrawan's GitHub Stats" />
-</p>
-
