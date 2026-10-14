@@ -3,17 +3,17 @@
 ### 🚀 Full-Stack Software Engineer | React • TypeScript • Node.js • SQL/NoSQL
 Driven by performance, clean architecture, and product-focused engineering. I have 1+ years of independent startup experience building, optimizing, and deploying production-ready web and cross-platform mobile MVPs from scratch. 
 
-🌍 Based in India | 🎯 Actively seeking Frontend & Full-Stack opportunities with visa sponsorship in **Dubai (UAE) & the United Kingdom (UK)**.
+🌍 Based in India | 🎯 Actively seeking Frontend & Full-Stack opportunities with visa sponsorship in **India, Dubai (UAE) & the United Kingdom (UK)**.
 
 ---
 
 ### 💻 Core Tech Stack
 
 - **Languages:** TypeScript, JavaScript (ES6+), Java, C++, SQL
-- **Frontend Ecosystem:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Backend & APIs:** Node.js, Express.js, RESTful APIs, WebSockets (Socket.io), JWT Auth, BullMQ
-- **Databases & Caching:** MongoDB, PostgreSQL, MySQL, Redis
-- **DevOps & Tools:** Git, GitHub, Docker (Basics), Postman, k6, Jira, Linux
+- **Frontend Ecosystem:** React.js, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Backend & APIs:** Node.js, Express.js, RESTful APIs, JWT Auth
+- **Databases & Caching:** MongoDB, PostgreSQL, MySQL
+- **DevOps & Tools:** Git, GitHub, Docker (Basics), Postman, Jira
 
 ---
 
